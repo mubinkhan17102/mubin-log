@@ -1,0 +1,20 @@
+{
+  "name": "mubin-log",
+  "version": "1.0.0",
+  "description": "Console library to color console command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mubinkhan17102/mubin-log.git"
+  },
+  "keywords": ["console", "color log", "log","colorify"],
+  "author": "Mubin Mohammad Ikhtiar Khan <mubin.ice.ru@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mubinkhan17102/mubin-log/issues"
+  },
+  "homepage": "https://github.com/mubinkhan17102/mubin-log#readme"
+}
