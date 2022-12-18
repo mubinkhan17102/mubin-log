@@ -1,5 +1,9 @@
 
 # Basic Log Package
 
-A brief description of what this project does and who it's for
+This pakcage mainly used for color different type of logs.
+
+Danger -> color red.
+Success -> color green.
+Infor -> color black and backgroud Yellow.
 
